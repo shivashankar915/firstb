@@ -22,11 +22,8 @@ l=tuple(l1)
 print(l)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
-a=4
-b=5
-result=a+b
-print(result)
 
 a=4
 b=5
@@ -39,3 +36,7 @@ print("helooooooooooooo")
 >>>>>>> parent of ad72606... Revert "add"
 =======
 >>>>>>> parent of 02da61f... second testing
+=======
+a,b=23,45
+print("helooooooooooooo")
+>>>>>>> parent of ad72606... Revert "add"
