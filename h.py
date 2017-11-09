@@ -7,7 +7,7 @@ z=str1.split(",")
 print(z)
 f=str1.swapcase()
 print(f)
-l1=[1,2,45,67,89]
+l1=[1,2,45,67,89,45]
 l2=[98,78,90,2,1]
 g=len(l1)
 print(g)
@@ -20,3 +20,22 @@ h=min(l2)
 print(h)
 l=tuple(l1)
 print(l)
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+a=4
+b=5
+result=a+b
+print(result)
+
+a=4
+b=5
+result1=a+b
+print(result)
+
+=======
+a,b=23,45
+print("helooooooooooooo")
+>>>>>>> parent of ad72606... Revert "add"
+=======
+>>>>>>> parent of 02da61f... second testing
