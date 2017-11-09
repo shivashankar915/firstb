@@ -24,12 +24,12 @@ print(l)
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 828541c... don
 
 
-a=4
-b=5
-result1=a+b
-print(result)
+
 
 =======
 a,b=23,45
@@ -37,9 +37,12 @@ print("helooooooooooooo")
 >>>>>>> parent of ad72606... Revert "add"
 =======
 >>>>>>> parent of 02da61f... second testing
+<<<<<<< HEAD
 =======
 a,b=23,45
 print("helooooooooooooo")
 >>>>>>> parent of ad72606... Revert "add"
 =======
 >>>>>>> parent of e631ab3... done
+=======
+>>>>>>> parent of 828541c... don
