@@ -7,7 +7,7 @@ z=str1.split(",")
 print(z)
 f=str1.swapcase()
 print(f)
-l1=[1,2,45,67,89,45]
+l1=[1,2,45,67,89]
 l2=[98,78,90,2,1]
 g=len(l1)
 print(g)
